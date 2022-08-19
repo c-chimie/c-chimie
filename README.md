@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a recent bootcamp graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Florida.
+I am a recent bootcamp graduate from South Florida<img src="https://media2.giphy.com/media/mC2KsUsOajTkX03Ut9/giphy.gif?cid=ecf05e47xyk3qsm7jq18yanq9b1tlh6bvm6950cwsita6pkj&rid=giphy.gif&ct=s" width="30">
 
 - :seedling: I enjoy solving problems and coming up with creative solutions.
 
