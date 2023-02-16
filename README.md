@@ -24,8 +24,6 @@ I am a Full-Stack Software Development bootcamp graduate from South Florida<img 
 
 - :seedling: I enjoy solving problems and coming up with creative solutions.
 
-- :zap: I'm currently searching for a career in Front-End Web Development.
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/concetta-chimienti-55a172151/)
 
 ---
